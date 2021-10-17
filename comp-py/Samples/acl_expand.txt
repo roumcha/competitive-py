@@ -1,0 +1,1 @@
+py -m atcoder [in] -o out.py
